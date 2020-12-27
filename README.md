@@ -8,5 +8,6 @@ Rewrite basic functions in 64bits Intel syntax assembly language
   - ft_write (man 2 write)
   - ft_read (man 2 read)
   - ft_strdup (man 3 strdup, you can call to malloc)
-  
+ 
+ 
 Written in april 2020.
